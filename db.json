@@ -5,11 +5,8 @@
       "title": "hello"
     }
   ],
-  "profile": {
-    "name": "MrKmall"
-  },
-  "auth": [
-    "username": "admin",
+  "auth": {
+    "username": "Admin",
     "password": "admin123"
   }
 }
